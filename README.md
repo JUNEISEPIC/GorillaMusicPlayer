@@ -4,7 +4,7 @@ A simple mod that lets you play music via ingame ui/menu!
 
 ## Installing
 
-So just got to the latest release install the .zip and extract it then drag the unzipped GorillaMusicPlayer folder to your plugins then you take any mp3 you have and put them in the pre-existing Music folder ans then press install/update and boom.
+So just go to the latest release install the .zip and extract it then drag the unzipped GorillaMusicPlayer folder to your plugins then you take any mp3 you have and put them in the pre-existing Music folder ans then press install/update and boom.
 
 ## How to use in-game
 
