@@ -8,7 +8,7 @@ So just go to the latest release install the .zip and extract it then drag the u
 
 ## How to use in-game
 
-When you load into the game you press x on your controller then you should get a mini black menu near your hand it does show instructions but in-case you want to know here is the controls!
+When you load into the game you press X on your controller then you should get a mini black menu near your hand it does show instructions but in-case you want to know here is the controls!
 A = play | A+Right trigger = next song | A+Left trigger = previous song
 
 ## Suggestions
