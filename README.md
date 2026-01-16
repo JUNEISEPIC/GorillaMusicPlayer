@@ -1,8 +1,9 @@
 # GorillaMusicPlayer
 
 A simple mod that lets you play music via ingame ui/menu!
-![downloads](https://img.shields.io/github/downloads/JUNEISEPIC/GorillaStartUpSounds/total)
-![LatestRelease](https://img.shields.io/github/v/release/JUNEISEPIC/GorillaStartUpSounds)
+
+![downloads](https://img.shields.io/github/downloads/JUNEISEPIC/GorillaMusicPlayer/total)
+![LatestRelease](https://img.shields.io/github/v/release/JUNEISEPIC/GorillaMusicPlayer)
 
 ## Installing
 
